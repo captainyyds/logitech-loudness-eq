@@ -1,0 +1,4 @@
+# 脚本运行时在本地生成的日志和备份
+*.log
+loudness-eq-backup.json
+backup-*.reg
